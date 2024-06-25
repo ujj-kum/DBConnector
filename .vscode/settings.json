@@ -1,7 +1,8 @@
 {
-  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorTheme": "Calvera Dark",
   "workbench.preferredDarkColorTheme": "Default Dark+",
   "task.allowAutomaticTasks": "on",
+  "editor.fontSize": 15,
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor"
   }
